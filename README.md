@@ -1,2 +1,2 @@
-# Responsive-NavBar
+# NavBar
  NavBar for Website (HTML,CSS)
